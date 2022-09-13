@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.857ed223.chunk.css",
-    "main.js": "/portfolio/static/js/main.7799e325.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.7799e325.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.1c6bf4bb.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.1c6bf4bb.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.f333771e.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.f333771e.js.map",
     "static/css/2.6167e600.chunk.css": "/portfolio/static/css/2.6167e600.chunk.css",
@@ -21,7 +21,7 @@
     "static/media/halza.53105f54.jpg": "/portfolio/static/media/halza.53105f54.jpg",
     "static/media/halza365.1355b520.png": "/portfolio/static/media/halza365.1355b520.png",
     "static/media/halzafull.2bbf4ac5.jpg": "/portfolio/static/media/halzafull.2bbf4ac5.jpg",
-    "static/media/me.e3699f55.jpg": "/portfolio/static/media/me.e3699f55.jpg",
+    "static/media/me.dd552185.jpg": "/portfolio/static/media/me.dd552185.jpg",
     "static/media/myhalza.bb63c6d8.png": "/portfolio/static/media/myhalza.bb63c6d8.png",
     "static/media/netflix.84c7cb5a.png": "/portfolio/static/media/netflix.84c7cb5a.png",
     "static/media/portfolio.a4285da9.png": "/portfolio/static/media/portfolio.a4285da9.png",
@@ -33,6 +33,6 @@
     "static/css/2.6167e600.chunk.css",
     "static/js/2.b75b2f86.chunk.js",
     "static/css/main.857ed223.chunk.css",
-    "static/js/main.7799e325.chunk.js"
+    "static/js/main.1c6bf4bb.chunk.js"
   ]
 }
