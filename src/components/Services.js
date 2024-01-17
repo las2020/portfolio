@@ -15,7 +15,7 @@ const Services = () => {
                 <FontAwesomeIcon className="icon" icon={faDesktop} size="2x" />
               </div>
               <h3>Data Analysis and Visualization </h3>
-             {/*  <p>
+              {/*  <p>
                 I approach each project individually and always focus on the
                 result.
               </p>*/}
@@ -29,7 +29,7 @@ const Services = () => {
               </div>
 
               <h3>Web Development</h3>
-             {/*  <p>Your website will be build with an new proven technologies.</p>*/}
+              {/*  <p>Your website will be build with an new proven technologies.</p>*/}
             </div>
           </div>
           {/* - */}
@@ -52,12 +52,11 @@ const Services = () => {
               <div className="circle">
                 <FontAwesomeIcon className="icon" icon={faDesktop} size="2x" />
               </div>
-              <h3>alization</h3>
-             {/*   <p>
+              <h3>Mobile App Developement</h3>
+              {/*   <p>
                 Customized widgets Developement on open source Visualization
                 tool(Grafana)
               </p>*/}
-              
             </div>
           </div>
         </div>
